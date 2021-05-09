@@ -1,5 +1,7 @@
 # Gorpipe Gor
 
+Homebrew repository for gor
+
 ## How do I install these formulae?
 
 `brew install gorpipe/gor/<formula>`
